@@ -11,6 +11,10 @@ https://aluno7.github.io/Desafio1-Aula2/
 
 https://github.com/Aluno7/Aulas-presencial
 
+# Avaliação do curso e expectativas 
+
+https://www.youtube.com/watch?v=lEkHMm_uU4A
+
 # Samurai da T.I
 
 ![<Samurai>](https://i.ibb.co/d0XgKNZp/og.png)

@@ -1,6 +1,11 @@
 # Link do curso de programação web
 https://github.com/CapelariPedro/Curso_HTML_CSS_JavaScript
 
+| Desafios | 
+|----------|
+| https://aluno7.github.io/Desafio1-Aula1/ |
+| https://aluno7.github.io/Desafio2-Aula1/ | 
+
 # Desafios
 
 https://aluno7.github.io/Desafio1-Aula1/

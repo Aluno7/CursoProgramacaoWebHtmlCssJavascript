@@ -1,7 +1,7 @@
 # Link do curso de programação web
 https://github.com/CapelariPedro/Curso_HTML_CSS_JavaScript
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
 
 | Desafios | Mapa das aulas presencial | Avaliação do curso e expectativas
 |----------|----------|----------|

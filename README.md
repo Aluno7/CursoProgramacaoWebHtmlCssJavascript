@@ -1,4 +1,4 @@
-# Link do curso de programação web
+# Link do curso de programação web(HTML, CSS e Javascript)
 https://github.com/CapelariPedro/Curso_HTML_CSS_JavaScript
 
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)

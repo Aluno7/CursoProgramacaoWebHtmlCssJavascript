@@ -9,3 +9,4 @@ https://github.com/CapelariPedro/Curso_HTML_CSS_JavaScript
 | https://aluno7.github.io/Desafio2-Aula1/ | 
 |https://aluno7.github.io/Desafio1-Aula3/  |
 |https://aluno7.github.io/Desafio2-Aula3/  |
+|https://aluno7.github.io/Desafio-Aula06/  |
